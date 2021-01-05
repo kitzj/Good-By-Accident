@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Good By Accident</title>
+  <link>https://Good-By-Accident.kitzj.repl.co</link>
+  <description>This is good by accident</description>
+  <item>
+    <title>RSS Tutorial</title>
+    <link>https://repl.it/@kitzj/Good-By-Accident#election.mp3</link>
+    <description>Good by accident</description>
+  </item>
+</channel>
+
+</rss>
+
+
